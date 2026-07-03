@@ -1,0 +1,27 @@
+p{
+    color:brown;
+    text-align:center;
+    line-height:30px;
+}
+h1{
+    text-align:center;
+    color:red;
+    font-family:georgia;
+}
+h3{
+    text-align:center;
+}
+a{
+    text-decoration:none;
+    color:rgb(0, 128, 0);
+}
+b{
+    background-color:white;
+    color:blueviolet;
+}
+textarea{
+    color:#000000;
+}
+span{
+    text-decoration:underline;
+}

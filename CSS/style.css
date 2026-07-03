@@ -1,0 +1,26 @@
+h1{
+    text-align:center;
+    text-decoration:wavy #261745  underline;
+    letter-spacing:5px;
+    font-size:50px;
+    font-family:avant garde , didot, sans-serif;
+
+}
+h3{
+    text-align:left;
+}
+p{
+    text-align:left;
+    font-weight:400;
+    line-height:1.5;
+    font-size: 20px;
+
+}
+h2{
+    font-weight:800;
+    font-family:impact; 
+}
+a{
+    text-decoration:none;
+    color:green
+}
